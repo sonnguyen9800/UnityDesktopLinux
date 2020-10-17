@@ -10,8 +10,8 @@ Small file to create UnityHub Launcher for Ubuntu 20.04
 
 <strong>Example&nbsp;</strong>
 
-<code>Exec=$HOME/Unity\ 2017.3.0f1/Editor/Unity</code>
-<code>Icon=$HOME/Unity\ 2017.3.0f1/Editor/unity3d-icon.png</code>
+<code>Exec=$HOME/Unity\ 2017.3.0f1/Editor/Unity&nbsp;</code>
+<code>Icon=$HOME/Unity\ 2017.3.0f1/Editor/unity3d-icon.png&nbsp;</code>
 <p>Should be good now!</p>
 
 
