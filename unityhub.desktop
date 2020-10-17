@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Unity Hub
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=unityhub
+StartupWMClass=Unity Hub
+X-AppImage-Version=2.4.1
+Comment=The Official Unity Hub
+MimeType=x-scheme-handler/unityhub;
+Categories=Development;
