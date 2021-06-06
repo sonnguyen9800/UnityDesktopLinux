@@ -4,7 +4,7 @@ Small file to create UnityHub Launcher for Ubuntu 20.04
 
 <h2>How to use</h2>
 
-<p>Put the file unityhub.desktop to the folder /home/sonnguyen9800/.local/share/applications/</p>
+<p>Put the file unityhub.desktop to the folder /home/<your-usename>/.local/share/applications/</p>
 
 <p>Set Exec and Icon to the place where your AppImage file and the icon stored</p>
 
